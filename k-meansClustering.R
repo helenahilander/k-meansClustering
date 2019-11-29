@@ -24,7 +24,7 @@
 #5. discussion
 
 #---------------------------------------------------------
-#1.read file read file and get to know data
+#1.read file and get to know data
 
 #read file
 setwd("..")
